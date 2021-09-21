@@ -1,1 +1,1 @@
-document.body.style.backgroundImage = "url('image.png')";
+you got hacked by the muffin man
