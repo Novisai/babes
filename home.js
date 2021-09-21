@@ -1,1 +1,1 @@
-document.write("hello you fucking sexy man")
+var btn = document.createElement("IMG");
