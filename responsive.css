@@ -1,0 +1,276 @@
+
+@media (min-width: 425px) { 
+    body {
+        overflow-x: hidden;
+    }
+    .wrapper img{
+        width: 1200px;
+        height: 690px;
+    }
+    #identity h1 {
+        left: 15%;
+    }
+    #locate {
+        left: 14%;
+    }
+    #text {
+        left: 88.6%;
+    }
+    .wow {
+        width: 97.5%;
+    }
+ }
+
+
+@media (min-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+    .wrapper img{
+        width: 100%;
+        height: 690px;
+    }
+    #identity h1 {
+        left: 40%;
+    }
+    #locate {
+        left: 43%;
+    }
+    #text {
+        left: 88.6%;
+    }
+    .wow {
+        width: 97.5%;
+    }
+}
+
+
+@media (min-width: 1024px) {
+    body {
+        overflow-x: hidden;
+    }
+    .wrapper img{
+        width: 100%;
+        height: 690px;
+    }
+    #identity h1 {
+        left: 40%;
+    }
+    #locate {
+        left: 43%;
+    }
+    #text {
+        left: 88.6%;
+    }
+    .wow {
+        width: 97.5%;
+    }
+}
+
+
+@media (min-width: 1280px) {
+    body {
+        overflow-x: hidden;
+    }
+    .wrapper img{
+        width: 100%;
+        height: 690px;
+    }
+    #identity h1 {
+        left: 40%;
+    }
+    #locate {
+        left: 43%;
+    }
+    #text {
+        left: 88.6%;
+    }
+    .wow {
+        width: 97.5%;
+    }
+  }
+
+@media(min-width: 1357px) {
+    body {
+        overflow-x: hidden;
+    }
+    .wrapper img{
+        width: 100%;
+        height: 690px;
+    }
+    #identity h1 {
+        left: 40%;
+    }
+    #locate {
+        left: 43%;
+    }
+    #text {
+        left: 88.6%;
+    }
+    .wow {
+        width: 97.5%;
+    }
+}
+
+@media (min-width: 1440px) {
+    body {
+        overflow-x: hidden;
+    }
+    .wrapper img{
+        width: 100%;
+        height: 690px;
+    }
+    #identity h1 {
+        left: 40%;
+    }
+    #locate {
+        left: 43%;
+    }
+    #text {
+        left: 88.6%;
+    }
+    .wow {
+        width: 97.5%;
+    }
+}
+
+@media (min-width: 1920px) { 
+    body {
+        overflow-x: hidden;
+    }
+    .topbar {
+        left: -10px;
+        top: -10px;
+        width: 100%;
+        height: 100px;
+    }
+    #cord {
+        left: 100px;
+        top: 34px;
+        font-size: 20px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+    }
+    #text {
+        width: 100px;
+        left: 1730px;
+        top: 29.4px;
+    }
+    #steam {
+        left: 250px;
+        top: 34.21px;
+        font-size: 20px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+    }
+    #identity h1 {
+        font-size: 70px;
+        left: 778px;
+        top: 345px;
+    }
+    #locate {
+        top: 18px;
+        left: 830px;
+        width: 258px;
+        height: 30px;
+        opacity: 70%;
+        font-size: 20px;
+        font-weight: 100px;
+    }
+    .carosel {
+        width: 101%;
+        height: 690px;
+        left: -10px;
+        top: 95px;
+    }
+    .wrapper{
+        width: 1400px;
+    }
+    .wrapper img{
+        width: 100%;
+        height: 690px;
+        left: 0px;
+        top: 100px;
+    }
+    .wow {
+        left: 20px;
+        top: 65px;
+        width: 1870px;
+        height: 0.3px;
+        opacity: 50%;
+    }
+}
+@media (min-width: 2560px) {
+    body {
+        overflow-x: hidden;
+    }
+    .topbar {
+        left: -10px;
+        top: -10px;
+        width: 100%;
+        height: 100px;
+    }
+    #cord {
+        left: 100px;
+        top: 34px;
+        font-size: 23px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+    }
+    #text {
+        width: 140px;
+        left: 89%;
+        top: 30px;
+    }
+    #steam {
+        left: 290px;
+        top: 34.21px;
+        font-size: 23px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+    }
+    #identity h1 {
+        font-size: 110px;
+        left: 1030px;
+        top: 345px;
+    }
+    #locate {
+        top: 18px;
+        left: 1175px;
+        width: 258px;
+        height: 30px;
+        opacity: 70%;
+        font-size: 20px;
+        font-weight: 100px;
+    }
+    .carosel {
+        width: 101%;
+        height: 690px;
+        left: -10px;
+        top: 95px;
+    }
+    .wrapper{
+        width: 1400px;
+    }
+    .wrapper img{
+        width: 100%;
+        height: 690px;
+        left: 0px;
+        top: 100px;
+    }
+    .wow {
+        left: 20px;
+        top: 65px;
+        width: 97.5%;
+        height: 0.3px;
+        opacity: 50%;
+    }
+}

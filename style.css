@@ -1,0 +1,151 @@
+body {
+    overflow-x: hidden;
+    background-color: #1b1b1b;
+}
+.wow {
+    left: 20px;
+    top: 65px;
+    width: 1870px;
+    height: 0.3px;
+    opacity: 50%;
+    background: #ffffff;
+    position: fixed;
+}
+.topbar {
+    left: -10px;
+    top: -10px;
+    width: 120%;
+    height: 100px;
+    background: #161616;
+    position: fixed;
+}
+#cord {
+    left: 100px;
+    top: 34px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    position: absolute;
+    color: #f1f1f1;
+    text-decoration: underline;
+    transition: ease-in-out 0.3s;
+    cursor: pointer;
+}
+#text {
+    width: 100px;
+    right: 160px;
+    top: 29.4px;
+    position: fixed;
+}
+#cord:hover {
+    color: #7289DA;
+}
+#steam {
+    left: 250px;
+    top: 34.21px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    position: absolute;
+    color: #f1f1f1;
+    text-decoration: underline;
+    transition: ease-in-out 0.3s;
+    cursor: pointer;
+}
+#steam:hover {
+    color: #6e8185d5;
+}
+#identity * {
+    transition: ease-in-out 0.8s;
+}
+#identity h1 {
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    position: absolute;
+    color: #f1f1f1;
+    left: 810px;
+    top: 345px;
+    cursor: default;
+}
+#identity h1:hover {
+    opacity: 50%;
+    line-height: 1;
+    display: inline-block;
+  }
+#locate {
+    top: 18px;
+    left: 820px;
+    width: 258px;
+    height: 30px;
+    opacity: 70%;
+    font-size: 20px;
+    font-weight: 100px;
+    background-color: transparent;
+    font-family: "Poppins", sans-serif;
+    position: fixed;
+    border: 0px;
+}
+#locate:hover {
+    opacity: 90%;
+    color: rgba(73, 73, 73, 0.8) 
+}
+#mmmmo {
+    opacity: 0;
+}
+#locate{
+    color: #f1f1f1; 
+}
+null {
+    width: 101%;
+    height: 690px;
+    left: -10px;
+    top: 95px;
+    position: relative;
+}
+.carosel {
+    width: 101%;
+    height: 690px;
+    left: -10px;
+    top: 95px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+}
+
+.wrapper{
+    width: 1920px;
+    animation: fadeout 120s infinite;
+}
+
+.wrapper img{
+    width: 1920px;
+    height: 690px;
+    left: 0px;
+    top: 100px;
+    position: absolute;
+}
+
+@keyframes fadeout{
+    0%{
+        opacity: 100%;
+    }
+    25%{
+        opacity: 25%;
+    }
+    50%{
+        opacity: 25%;
+    }
+    75%{
+        opacity: 25%;
+    }
+}
