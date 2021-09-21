@@ -1,1 +1,1 @@
-var btn = document.createElement("IMG");
+document.body.style.backgroundImage = "url('image.png')";
