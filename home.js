@@ -1,1 +1,1 @@
-alert("hello elliot");
+document.write("hello you fucking sexy man")
